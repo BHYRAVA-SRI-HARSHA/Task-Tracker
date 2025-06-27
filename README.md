@@ -6,4 +6,4 @@ Features with
 3. Edit Task
 Filtering All, Completed, Pending 
 
-- Deployed at: [https://github.com/BHYRAVA-SRI-HARSHA/Task-Tracker]
+- Deployed at: [[https://github.com/BHYRAVA-SRI-HARSHA/Task-Tracker](https://task-tracker-75xw.vercel.app/)]
